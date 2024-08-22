@@ -1,7 +1,7 @@
 .header {
   padding: 80px; /* some padding */
   text-align: left;
-  color: DarkGreen; /* white text color */
+  color: black; /* white text color */
 }
 
 /* Increase the font size of the <h1> element */
@@ -11,7 +11,7 @@
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #F8F8FF; 
+  background-color: white; 
 }
 
 /* Style the navigation bar links */
