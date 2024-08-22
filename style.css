@@ -74,3 +74,34 @@
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+#vertical_menu {
+  margin: 70px 0px 10px -30px;
+  padding: 0px 0px 20px;
+  float: left;
+  width: 290px;
+  list-style-image: url(none);
+  background-color: white;
+}
+#vertical_menu li {
+  border-style: none;
+  border-color: #ccccff;
+  margin: 5px 5px 5px -20px;
+  padding: 5px;
+  -moz-border-radius-topleft: 20px;
+  -moz-border-radius-topright: 20px;
+  -moz-border-radius-bottomright: 20px;
+  -moz-border-radius-bottomleft: 20px;
+  float: left;
+  width: 145px;
+  font-family: Tunga;
+  text-decoration: none;
+  font-size: large;
+  background-color: white;
+}
+#vertical_menu a {
+  font-family: Tunga;
+  text-decoration: none;
+  color: #333399;
+  font-size: large;
+}
