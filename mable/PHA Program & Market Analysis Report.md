@@ -23,7 +23,7 @@ November 2024
 
 	Link to interactive CDF visualizations
 
-[alt text](https://github.com/kathion3/portfolio/blob/21991be792fe7f2c4c361a4e36220d13d7a5f8ab/mable/hcv_ecdf.html)
+<iframe src="[https://github.com/kathion3/portfolio/blob/21991be792fe7f2c4c361a4e36220d13d7a5f8ab/mable/hcv_ecdf.html]" width="600" height="400"></iframe>
 
 #### **Medians**
 
